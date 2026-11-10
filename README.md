@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Евгений Повякало 👋
 
-<!--
-**lomosar/lomosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Занимаюсь анализом данных и машинным обучением. На основной работе регулярно работаю с локальными базами данных. Прошёл профессиональную переподготовку по Data Science в Яндекс Практикуме.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Сервис прогноза риска сердечного приступа](https://github.com/lomosar/heart-attack-prediction-service)** — реализовал API на FastAPI для получения прогнозов модели по данным из CSV.
+- **[Прогноз покупки в течение 90 дней](https://github.com/lomosar/marketplace)** — построил признаки на основе истории покупок и сравнил модели. Лучший **ROC-AUC ≈ 0,71**.
+- **[HR-аналитика](https://github.com/lomosar/ml-supervised-learning)** — построил модели для прогноза удовлетворённости сотрудников и оценки риска увольнения.
+- **Прогноз температуры стального сплава** — получил **MAE 6,33 °C** на тестовой выборке при требовании ниже 6,8 °C.
+
+**Инструменты:** Python, SQL, SQLite, pandas, NumPy, Matplotlib, scikit-learn, LightGBM, SHAP, FastAPI, Git.
+
+Сейчас исследую, как по погодным данным и архивам наблюдений оценивать видимость северного сияния в Мурманской области.
+
+**Открыт к стажировке** с гибким графиком и заранее согласованными сроками.
